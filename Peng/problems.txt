@@ -1,0 +1,43 @@
+***************
+combination sum
+***************
+1. recursive time complicity.
+2. dp is slower.
+
+***************
+combination sum II
+***************
+Dp solution?
+
+***************
+Construct Binary Tree from Preorder and Inorder Traversal 
+***************
+begin\end?
+
+******************
+Find Minimum in Rotated Sorted Array 
+******************
+boundry:
+>
+= (mid == begin)
+<
+
+*************
+Jump Game II 
+*************
+ideals
+
+**************
+Find Peak Element
+**************
+n ascending subarray
+
+**************
+Majority Element
+**************
+except moore voting?
+
+***************
+Minimum Size Subarray Sum & Maximum Subarray
+***************
+Try divide and conquer?
